@@ -2,11 +2,12 @@
 
 The EBT (Electronic Benefit Transfer) Card is similar to a debit card where the Government issues it to
 underprivileged people when their income is under a specific threshold.
-•EBT Food refers to the usage of the card to purchase cold meals in a particular business.
-•EBT Cash refers to the ability to withdraw cash from an ATM.
-•Alcoholic beverages and tobacco items are examples of products that are not eligible for EBT Food.
-•Each month, the cardholder will get money from the government using taxpayer funds.
-•The EBT card therefore needs a Database Management System to support the daily transactions.
+
+• EBT Food refers to the usage of the card to purchase cold meals in a particular business.<br>
+• EBT Cash refers to the ability to withdraw cash from an ATM.<br>
+• Alcoholic beverages and tobacco items are examples of products that are not eligible for EBT Food.<br>
+• Each month, the cardholder will get money from the government using taxpayer funds.<br>
+• The EBT card therefore needs a Database Management System to support the daily transactions.
 
 Order for running Script
 1. Run 1_System Admin Script (System_Admin_Script.sql) - this will create an EBTAPP User
